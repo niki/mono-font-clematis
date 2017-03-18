@@ -15,6 +15,6 @@
 - `1`         : 下部の線を取り除く (Remove the bottom line)
 
 ## Clematis
-- 'Clematis Mono' + 'M+'
+- 'Clematis Mono' + 'M+ 2m'
 - 'M+ 2m' の 0x20～0x7e までを 'Clematis Mono' で置き換えたものです
 - サイズ調整のためASCII文字を 106% 変形しています
