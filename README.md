@@ -1,6 +1,7 @@
 # Clematis
 'Ubuntu Mono' + 'M+' font.
 
+## Changed 'Ubuntu Mono'
 <img src="https://raw.github.com/wiki/rabbiteariris/Clematis/images/diff.png" width="50%">
 
 ## Changes
