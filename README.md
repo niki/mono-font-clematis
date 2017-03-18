@@ -5,6 +5,7 @@
 <img src="https://raw.github.com/wiki/rabbiteariris/Clematis/images/diff.png" width="50%">
 
 ## Changes
+- ヒント命令を削除 (Remove hint instruction)
 - `$`         : 縦線をつなげる (Connect vertical lines)
 - `G`         : 横線をつける (Add a horizontal line)
 - `J` `j` `l` : セリフを取り除く (Remove lines)
