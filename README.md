@@ -16,5 +16,6 @@
 
 ## Clematis
 - 'Clematis Mono' + 'M+ 2m'
+- TESTFLIGHT-062 を使用
 - 'M+ 2m' の 0x20～0x7e までを 'Clematis Mono' で置き換えたものです
 - サイズ調整のためASCII文字を 106% 変形しています
