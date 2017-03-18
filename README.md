@@ -4,7 +4,7 @@
 ## Changed 'Ubuntu Mono'
 <img src="https://raw.github.com/wiki/rabbiteariris/Clematis/images/diff.png" width="50%">
 
-## Changes
+## Clematis Mono
 - ヒント命令を削除 (Remove hint instruction)
 - `$`         : 縦線をつなげる (Connect vertical lines)
 - `G`         : 横線をつける (Add a horizontal line)
@@ -14,3 +14,7 @@
 - `0`         : ドットをスラッシュに修正 (Fix dots as slash)
 - `1`         : 下部の線を取り除く (Remove the bottom line)
 
+## Clematis
+- 'Clematis Mono' + 'M+'
+- 'M+ 2m' の 0x20～0x7e までを 'Clematis Mono' で置き換えたものです
+- サイズ調整のためASCII文字を 106% 変形しています
