@@ -17,7 +17,7 @@
 
 ## Clematis v0.2
 - 'Clematis Mono' + 'M+ 2m'<br>
-  'M+ 2m' の 0x20～0x7e までを 'Clematis Mono' で置き換えたものです.<br>
+  'M+ 2m' の 0x20～0x7e, 0xa0～0x24f までを 'Clematis Mono' で置き換えたものです.<br>
   サイズ調整のためASCII文字を 106% 変形しています.<br>
 - TESTFLIGHT-062 を使用
 - 行間を狭くしています (Miguの値を使用)
