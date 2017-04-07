@@ -3,15 +3,14 @@ FontName: ClematisMono-Regular
 FullName: Clematis Mono
 FamilyName: Clematis Mono
 Weight: Book
-Copyright: Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0\n(C) 2017 Rabbiteariris
-Version: 0.2
+Copyright: Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0\n(C) 2017 Calette
+Version: 0.2.1
 ItalicAngle: 0
 UnderlinePosition: -133
 UnderlineWidth: 20
 Ascent: 800
 Descent: 200
 InvalidEm: 0
-sfntRevision: 0x0000cccc
 LayerCount: 2
 Layer: 0 1 "+gMyXYgAA" 1
 Layer: 1 1 "+Uk2XYgAA" 0
@@ -22,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1304432203
-ModificationTime: 1490194133
+ModificationTime: 1491582417
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2316,7 +2315,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Clematis Mono Regular Version 0.1" "" "Version 0.2" "" "Ubuntu and Canonical are registered trademarks of Canonical Ltd.+AAoA(C) 2017 Rabbiteariris." "Rabbiteariris" "Rabbiteariris" "" "https://github.com/rabbiteariris/Clematis" "https://github.com/rabbiteariris/Clematis" "" "" "" "Clematis Mono" "Regular" "Clematis Mono"
+LangName: 1033 "" "" "" "Clematis Mono Regular Version 0.2.1" "" "Version 0.2.1" "" "Ubuntu and Canonical are registered trademarks of Canonical Ltd.+AAoA(C) 2017 Calette." "Calette" "Calette" "" "https://github.com/calette/Clematis" "https://github.com/calette/Clematis" "" "" "" "Clematis Mono" "Regular" "Clematis Mono"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -2327,6 +2326,7 @@ FitToEm: 0
 WinInfo: 32 16 8
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 524288 262144 174762 486539 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 65611 1296
 
 StartChar: SF030000.001
@@ -2351,7 +2351,7 @@ EndChar
 
 StartChar: .null
 Encoding: 8 8 1
-AltUni2: 00001d.ffffffff.0 000000.ffffffff.0
+AltUni2: 000000.ffffffff.0 00001d.ffffffff.0
 Width: 500
 Flags: W
 LayerCount: 2
