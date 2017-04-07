@@ -23,4 +23,4 @@ Combine 'Clematis Mono' and 'M+' fonts.<br>
 - TESTFLIGHT-062 を使用
 - 行間を狭くしています (Miguの値を使用)
 
-(C) 2017 Rabbiteariris  
+(C) 2017 Calette
