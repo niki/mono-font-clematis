@@ -34,4 +34,4 @@ Combine 'Clematis Mono' and 'M+' fonts.
 
 <br>
 
-(C) 2017 Calette.
+(C) 2017 sayacat.
