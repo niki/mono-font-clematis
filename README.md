@@ -34,4 +34,4 @@ Combine 'Clematis Mono' and 'M+' fonts.
 
 <br>
 
-(C) 2017 Rabbiteariris.
+(C) 2017 Calette.
