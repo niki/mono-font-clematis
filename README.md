@@ -8,7 +8,7 @@ Combine 'Clematis Mono' and 'M+' fonts.
 <br>
 
 **Changed 'Ubuntu Mono'**  
-<img src="https://raw.github.com/wiki/calette/Clematis/images/diff.gif" width="50%">
+<img src="https://raw.github.com/wiki/uzuki3/Clematis/images/diff.gif" width="50%">
 
 <br>
 
@@ -34,4 +34,4 @@ Combine 'Clematis Mono' and 'M+' fonts.
 
 <br>
 
-(C) 2017 silica33.
+(C) 2017 Uzuki.
