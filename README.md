@@ -8,7 +8,7 @@ Combine 'Clematis Mono' and 'M+' fonts.
 <br>
 
 **Changed 'Ubuntu Mono'**  
-<img src="https://github.com/uzuki3/sakura/raw/master/Clematis/font.gif" width="50%">
+![](font.gif)
 
 <br>
 
