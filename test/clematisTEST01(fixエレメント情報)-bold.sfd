@@ -1,5 +1,5 @@
 SplineFontDB: 3.0
-FontName: ClematisTEST-bold
+FontName: clematisTEST-bold
 FullName: ClematisTEST bold
 FamilyName: ClematisTEST
 Weight: Bold
@@ -17,11 +17,11 @@ Layer: 1 1 "+Uk2XYgAA" 0
 XUID: [1021 283 709330389 30432]
 StyleMap: 0x0020
 FSType: 0
-OS2Version: 3
+OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1304432203
-ModificationTime: 1498916247
+ModificationTime: 1498918977
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -53,8 +53,8 @@ OS2StrikeYSize: 49
 OS2StrikeYPos: 258
 OS2FamilyClass: 2057
 OS2Vendor: 'UZ  '
-OS2CodePages: 2000009f.56010000
-OS2UnicodeRanges: e00002ff.5000205b.00000000.00000000
+OS2CodePages: 6012019f.dfd70000
+OS2UnicodeRanges: e00002ff.7a47fdfb.04000012.00000000
 Lookup: 1 0 0 "'locl' +Vv0w+1cwV99W+mcJMG5bV19i in +MOkwxjDzZYdbVwAA lookup 0" { "'locl' +Vv0w+1cwV99W+mcJMG5bV19i in +MOkwxjDzZYdbVwAA lookup 0 +MLUw1jDGMPww1jDr"  } ['locl' ('latn' <'AZE ' > ) ]
 Lookup: 1 0 0 "'locl' +Vv0w+1cwV99W+mcJMG5bV19i in +MOkwxjDzZYdbVwAA lookup 1" { "'locl' +Vv0w+1cwV99W+mcJMG5bV19i in +MOkwxjDzZYdbVwAA lookup 1 +MLUw1jDGMPww1jDr"  } ['locl' ('latn' <'TRK ' > ) ]
 Lookup: 1 0 0 "'locl' +Vv0w+1cwV99W+mcJMG5bV19i in +MOkwxjDzZYdbVwAA lookup 2" { "'locl' +Vv0w+1cwV99W+mcJMG5bV19i in +MOkwxjDzZYdbVwAA lookup 2 +MLUw1jDGMPww1jDr"  } ['locl' ('latn' <'CRT ' > ) ]
@@ -2152,7 +2152,7 @@ GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -36
+DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 64 16 8
@@ -2183,7 +2183,7 @@ EndChar
 
 StartChar: .null
 Encoding: 8 8 1
-AltUni2: 00001d.ffffffff.0 000000.ffffffff.0
+AltUni2: 000000.ffffffff.0 00001d.ffffffff.0
 Width: 500
 Flags: W
 LayerCount: 2
