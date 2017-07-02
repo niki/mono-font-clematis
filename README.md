@@ -30,9 +30,13 @@ Clematis v0.3.2
 
 ClematisTEST v99.4.0
 --------------------
+- 'Clematis Mono' + 'M+ 1m'<br>
+  合成方法を変更, 'Clematis Mono' にないグリフを 'M+ 1m' で補完.<br>
+  サイズ調整のため 'Clematis Mono' を 106% 変形しています.<br>
+- 現在テスト使用中
+
 [/test](/test)  
-- 合成方法を変更, Clematis Mono に含まれるグリフがすべて含まれています.
 
 
 ---
-**(C) 2017 Uzuki.**
+(C) 2017 Uzuki.
