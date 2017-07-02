@@ -1,14 +1,12 @@
 Fixed 'Ubuntu Mono' and combine 'Clematis Mono' and 'M+' fonts.  
 
-<br>
 
 Changed 'Ubuntu Mono'
 ---------------------
 ![](font.gif)
 
-<br>
 
-Clematis Mono v0.2.1
+Clematis Mono v0.2.2
 --------------------
 - Remove hint instruction (ヒント命令を削除)
 - `$`         : Connect vertical lines (縦線をつなげる)
@@ -20,7 +18,6 @@ Clematis Mono v0.2.1
 - `0`         : Fix dots as slash (ドットをスラッシュに修正)
 - `1`         : Remove the bottom line (下部の線を取り除く)
 
-<br>
 
 Clematis v0.3.2
 ---------------
@@ -30,14 +27,12 @@ Clematis v0.3.2
 - TESTFLIGHT-062 を使用
 - 行間を狭くしています (Miguの値を使用)
 
-<br>
 
 ClematisTEST v99.4.0
 --------------------
 [/test](/test)  
 - 合成方法を変更, Clematis Mono に含まれるグリフがすべて含まれています.
 
-<br>
 
 ---
 **(C) 2017 Uzuki.**
