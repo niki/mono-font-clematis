@@ -1,0 +1,10 @@
+Step.1
+  Change element information
+
+Step.2
+  Clear 0x21～0x7E and 0xA1～0x24F
+
+Step.3
+  Consolidate deformed 'Clematis Mono'
+
+Output font -> clematis-regular.ttf. clematis-bold.ttf

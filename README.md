@@ -6,8 +6,10 @@ Changed 'Ubuntu Mono'
 ![](font.gif)
 
 
-Clematis Mono v0.2.2
---------------------
+<br>
+
+Clematis Mono v0.2.2 - 2017.7.2 
+-------------------------------
 - Remove hint instruction (ヒント命令を削除)
 - `$`         : Connect vertical lines (縦線をつなげる)
 - `*`         : Center aligned in vertical direction (縦方向を中央揃え)
@@ -19,24 +21,19 @@ Clematis Mono v0.2.2
 - `1`         : Remove the bottom line (下部の線を取り除く)
 
 
-Clematis v0.3.2
----------------
+<br>
+
+Clematis v0.4.0 - 2017.7.4 
+--------------------------
 - 'Clematis Mono' + 'M+ 1m'<br>
-  'M+ 1m' の 0x20～0x7e, 0xa0～0x24f までを 'Clematis Mono' で置き換えたものです.<br>
-  サイズ調整のためASCII文字を 106% 変形しています.<br>
-- TESTFLIGHT-062 を使用
-- 行間を狭くしています (Miguの値を使用)
+- 'M+ 1m' の 0x20～0x7e, 0xa0～0x24f までを 'Clematis Mono' で置き換え
+- 上記以外の 'M+ 1m' にない文字を 'Clematis Mono' で補完
+- サイズ調整のため ASCII文字を 106% 変形
+- 'M+ 1m' は TESTFLIGHT-062 を使用
+- メトリックなどの情報に [Migu](http://mix-mplus-ipa.osdn.jp/migu/) の値を使用 (行間など単なる好みです)
 
 
-ClematisTEST v99.4.0
---------------------
-- 'Clematis Mono' + 'M+ 1m'<br>
-  合成方法を変更, 'Clematis Mono' にないグリフを 'M+ 1m' で補完.<br>
-  サイズ調整のため 'Clematis Mono' を 106% 変形しています.<br>
-- 現在テスト使用中
-
-[/test](/test)  
-
+<br>
 
 ---
 (C) 2017 Uzuki.
