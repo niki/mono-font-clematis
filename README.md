@@ -28,7 +28,7 @@ Clematis v0.4.1 - 2017.7.7
 - 'Clematis Mono' + 'M+ 1m'<br>
 - 'M+ 1m' の 0x20～0x7e, 0xa0～0x24f までを 'Clematis Mono' で置き換え
 - 上記以外の 'M+ 1m' にない文字を 'Clematis Mono' で補完
-- サイズ調整のため ASCII文字を 106% 変形
+- サイズ調整のため ASCII文字を 106%, 108% 変形
 - 'M+ 1m' は TESTFLIGHT-062 を使用
 - フォント情報は [Migu](http://mix-mplus-ipa.osdn.jp/migu/) を参考
 
