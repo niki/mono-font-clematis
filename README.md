@@ -1,4 +1,4 @@
-Fixed 'Ubuntu Mono' and combine 'Clematis Mono' and 'M+' fonts.  
+Fixed 'Ubuntu Mono (Clematis Mono)' and combine 'Clematis Mono' and 'M+' fonts.  
 
 
 Changed 'Ubuntu Mono'
@@ -8,7 +8,7 @@ Changed 'Ubuntu Mono'
 
 <br>
 
-Clematis Mono v0.2.2 - 2017.7.2 
+Clematis Mono v0.2.2 - 2017.7.2
 -------------------------------
 - Remove hint instruction (ヒント命令を削除)
 - `$`         : Connect vertical lines (縦線をつなげる)
@@ -23,17 +23,17 @@ Clematis Mono v0.2.2 - 2017.7.2
 
 <br>
 
-Clematis v0.4.1 - 2017.7.7 
---------------------------
-- 'Clematis Mono' + 'M+ 1m'<br>
+Clematis v1.0.63 - 2017.10.27
+-----------------------------
+- 'M+ 1m' と 'Clematis Mono' を結合したもの
+- 'M+ 1m' は TESTFLIGHT-063 を使用
+- フォント情報は [Migu](http://mix-mplus-ipa.osdn.jp/migu/) を参考
 - 'M+ 1m' の 0x20～0x7e, 0xa0～0x24f までを 'Clematis Mono' で置き換え
 - 上記以外の 'M+ 1m' にない文字を 'Clematis Mono' で補完
-- サイズ調整のため ASCII文字を 106%, 108% 変形
-- 'M+ 1m' は TESTFLIGHT-062 を使用
-- フォント情報は [Migu](http://mix-mplus-ipa.osdn.jp/migu/) を参考
+- サイズ調整のため 'Clematis Mono' を 108% に変形
 
 
 <br>
 
----
+***
 (C) 2017 Uzuki.
