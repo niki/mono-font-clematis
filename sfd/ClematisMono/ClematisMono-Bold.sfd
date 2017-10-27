@@ -4,7 +4,7 @@ FullName: Clematis Mono Bold
 FamilyName: Clematis Mono
 Weight: Bold
 Copyright: Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0\n(C) 2017 Uzuki.
-Version: 0.2.2
+Version: 1.0.0
 ItalicAngle: 0
 UnderlinePosition: -133
 UnderlineWidth: 20
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1304432203
-ModificationTime: 1499001647
+ModificationTime: 1509071602
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -2147,12 +2147,12 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 0.2.2" "" "Ubuntu and Canonical are registered trademarks of Canonical Ltd.+AAoA(C) 2017 Uzuki." "Uzuki" "Uzuki" "" "https://github.com/uzuki3/Clematis" "https://github.com/uzuki3/Clematis" "" "" "" "Clematis Mono" "Bold" "Clematis Bold"
+LangName: 1033 "" "" "" "" "" "Version 1.0.0" "" "Ubuntu and Canonical are registered trademarks of Canonical Ltd.+AAoA(C) 2017 Uzuki." "Uzuki" "Uzuki" "" "https://github.com/uzuki3/Clematis" "https://github.com/uzuki3/Clematis" "" "" "" "Clematis Mono" "Bold" "Clematis Bold"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -36
+DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 32 16 8
@@ -2183,7 +2183,7 @@ EndChar
 
 StartChar: .null
 Encoding: 8 8 1
-AltUni2: 000000.ffffffff.0 00001d.ffffffff.0
+AltUni2: 00001d.ffffffff.0 000000.ffffffff.0
 Width: 500
 Flags: W
 LayerCount: 2

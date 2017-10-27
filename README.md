@@ -8,8 +8,8 @@ Changed 'Ubuntu Mono'
 
 <br>
 
-Clematis Mono v0.2.2 - 2017.7.2
--------------------------------
+Clematis Mono v1.0.0 - 2017.10.28
+---------------------------------
 - Remove hint instruction (ヒント命令を削除)
 - `$`         : Connect vertical lines (縦線をつなげる)
 - `*`         : Center aligned in vertical direction (縦方向を中央揃え)
