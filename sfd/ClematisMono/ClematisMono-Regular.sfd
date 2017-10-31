@@ -3,7 +3,7 @@ FontName: ClematisMono-Regular
 FullName: Clematis Mono
 FamilyName: Clematis Mono
 Weight: Book
-Copyright: Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0\n(C) 2017 Uzuki.
+Copyright: Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0\n(C) 2017 Niki.
 Version: 1.0.0
 ItalicAngle: 0
 UnderlinePosition: -133
@@ -2315,7 +2315,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Clematis Mono Regular Version 1.0.0" "" "Version 1.0.0" "" "Ubuntu and Canonical are registered trademarks of Canonical Ltd.+AAoA(C) 2017 Uzuki." "Uzuki" "Uzuki" "" "https://github.com/uzuki3/Clematis" "https://github.com/uzuki3/Clematis" "" "" "" "Clematis Mono" "Regular" "Clematis Mono"
+LangName: 1033 "" "" "" "Clematis Mono Regular Version 1.0.0" "" "Version 1.0.0" "" "Ubuntu and Canonical are registered trademarks of Canonical Ltd.+AAoA(C) 2017 Niki." "Niki" "Niki" "" "https://github.com/niki/Clematis" "https://github.com/niki/Clematis" "" "" "" "Clematis Mono" "Regular" "Clematis Mono"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none

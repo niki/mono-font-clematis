@@ -3,7 +3,7 @@ FontName: ClematisMono-Bold
 FullName: Clematis Mono Bold
 FamilyName: Clematis Mono
 Weight: Bold
-Copyright: Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0\n(C) 2017 Uzuki.
+Copyright: Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0\n(C) 2017 Niki.
 Version: 0.2.2
 ItalicAngle: 0
 UnderlinePosition: -133
@@ -2143,7 +2143,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 0.2.2" "" "Ubuntu and Canonical are registered trademarks of Canonical Ltd.+AAoA(C) 2017 Uzuki." "Uzuki" "Uzuki" "" "https://github.com/uzuki3/Clematis" "https://github.com/uzuki3/Clematis" "" "" "" "Clematis Mono" "Bold" "Clematis Bold" 
+LangName: 1033 "" "" "" "" "" "Version 0.2.2" "" "Ubuntu and Canonical are registered trademarks of Canonical Ltd.+AAoA(C) 2017 Niki." "Niki" "Niki" "" "https://github.com/niki/Clematis" "https://github.com/niki/Clematis" "" "" "" "Clematis Mono" "Bold" "Clematis Bold" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
