@@ -1,3 +1,5 @@
+It is influenced by Consolas, Inconsolata, and Menlo, with its own adjustments.
+
 Fixed 'Ubuntu Mono (Clematis Mono)' and combine 'Clematis Mono' and 'M+' fonts.  
 
 
@@ -36,4 +38,4 @@ Clematis v1.0.63 - 2017.10.27
 <br>
 
 ***
-(C) 2017 Niki.
+(C) 2017 niki.
